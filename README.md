@@ -1,0 +1,2 @@
+# Loan-Prediction-Using-Machine-Learning-Algorithm
+In this project, I have presented a solution to predict whether a particular person should be provided a loan or not. I have used machine learning algorithm like Logistic Regression, Decision Tree, KNN and Support Vector Classifier. Prediction accuracy was 77.78%. I have also upload training and test dataset for the training as well as for prediction on test set.
